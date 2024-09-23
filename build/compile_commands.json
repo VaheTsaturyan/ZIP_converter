@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/vts/repos/zip1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -I/home/vts/repos/zip1/inc -g -g -O0 -std=gnu++11 -o CMakeFiles/MyProject.dir/src/compres.cpp.o -c /home/vts/repos/zip1/src/compres.cpp",
+  "file": "/home/vts/repos/zip1/src/compres.cpp"
+},
+{
+  "directory": "/home/vts/repos/zip1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -I/home/vts/repos/zip1/inc -g -g -O0 -std=gnu++11 -o CMakeFiles/MyProject.dir/src/hafmanTable.cpp.o -c /home/vts/repos/zip1/src/hafmanTable.cpp",
+  "file": "/home/vts/repos/zip1/src/hafmanTable.cpp"
+},
+{
+  "directory": "/home/vts/repos/zip1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -I/home/vts/repos/zip1/inc -g -g -O0 -std=gnu++11 -o CMakeFiles/MyProject.dir/src/hafmanTree.cpp.o -c /home/vts/repos/zip1/src/hafmanTree.cpp",
+  "file": "/home/vts/repos/zip1/src/hafmanTree.cpp"
+},
+{
+  "directory": "/home/vts/repos/zip1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -I/home/vts/repos/zip1/inc -g -g -O0 -std=gnu++11 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /home/vts/repos/zip1/src/main.cpp",
+  "file": "/home/vts/repos/zip1/src/main.cpp"
+},
+{
+  "directory": "/home/vts/repos/zip1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -I/home/vts/repos/zip1/inc -g -g -O0 -std=gnu++11 -o CMakeFiles/MyProject.dir/src/output.cpp.o -c /home/vts/repos/zip1/src/output.cpp",
+  "file": "/home/vts/repos/zip1/src/output.cpp"
+},
+{
+  "directory": "/home/vts/repos/zip1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_SERIALIZATION_DYN_LINK -I/home/vts/repos/zip1/inc -g -g -O0 -std=gnu++11 -o CMakeFiles/MyProject.dir/src/zip.cpp.o -c /home/vts/repos/zip1/src/zip.cpp",
+  "file": "/home/vts/repos/zip1/src/zip.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -g -O0 CMakeFiles/MyProject.dir/src/compres.cpp.o CMakeFiles/MyProject.dir/src/hafmanTable.cpp.o CMakeFiles/MyProject.dir/src/hafmanTree.cpp.o CMakeFiles/MyProject.dir/src/main.cpp.o CMakeFiles/MyProject.dir/src/output.cpp.o CMakeFiles/MyProject.dir/src/zip.cpp.o -o MyProject  /usr/lib/x86_64-linux-gnu/libboost_serialization.so.1.74.0 
